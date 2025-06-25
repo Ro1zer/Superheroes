@@ -4,10 +4,10 @@
     <selectionStates>
       <SelectionState runConfigName="Superheroes">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2025-06-25T15:09:11.354270400Z">
+        <DropdownSelection timestamp="2025-06-25T16:45:39.279053900Z">
           <Target type="DEFAULT_BOOT">
             <handle>
-              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\stars\.android\avd\Pixel_7_API_36.avd" />
+              <DeviceId pluginId="PhysicalDevice" identifier="serial=a6f4808b0606" />
             </handle>
           </Target>
         </DropdownSelection>
